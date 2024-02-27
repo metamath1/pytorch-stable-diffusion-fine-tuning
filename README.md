@@ -13,3 +13,13 @@
 
 - For that reason, this notebook breaks down train_text_to_image[_lora].py and describes how to quickly full-fine-tune a stable diffusion with minimal code required.
 
+<html>
+<table>
+<tr>
+    <td>
+    <img src="./pokemon1.png" alt="이미지1 설명a very cute looking cartoon character with big eyes" width="100%"/></td>
+    <td><img src="./pokemon2.png" alt="Yoda" width="100%"/></td>
+    <td><img src="./pokemon3.png" alt="Hello Kitty" width="100%"/></td>
+</tr>
+</table>
+</html>
